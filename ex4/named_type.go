@@ -6,5 +6,6 @@ type counter int
 
 func main() {
 	var count counter
-	fmt.Print(count)
+	fmt.Print("value of variable=", count)
+	fmt.Printf("Type: %T", count)
 }
