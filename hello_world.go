@@ -23,5 +23,5 @@ func main() {
 	fmt.Printf("World\n")
 
 	// Single statement then ; not needed
-	fmt.Printf("Learning Go once again\n")
+	fmt.Printf("Learning Go\n")
 }
